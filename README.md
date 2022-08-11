@@ -1,4 +1,4 @@
-# Hi there 👋, I am Mozes Sapari
+# Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I am Mozes Sapari
 
 
 Hello, Introducing my name is Mozes Sapari, I am a fresh graduate from the Department of Informatics, University of Papua, while as a student I always hone my soft skills, namely: IT Support, Network Engineer, and Full Stack Web Developer.
@@ -18,6 +18,11 @@ So much information about me, hopefully useful :).
   <img src="https://github-readme-stats.vercel.app/api?username=MozesJr&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MozesJr&layout=compact" height=180 />
 </p>
+
+📊 &nbsp;**This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=MozesJr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
 <!--
 **MozesJr/MozesJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
