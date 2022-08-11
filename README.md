@@ -16,7 +16,7 @@ So much information about me, hopefully useful :).
 <p align=left> <img src=https://komarev.com/ghpvc/?username=rajk3770 alt=rajk3770 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=rajk3770&show_icons=true&include_all_commits=true)](https://github.com/rajk3770/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajk3770&layout=compact)](https://github.com/rajk3770/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MozesJr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## &#x1f4c8; My GitHub Stats
