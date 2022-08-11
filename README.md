@@ -14,9 +14,10 @@ So much information about me, hopefully useful :).
 
 
 ## &#x1f4c8; My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MozesJr&layout=compact" height=180 />
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=MozesJr&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MozesJr&layout=compact" height=180 />
+</p>
 <!--
 **MozesJr/MozesJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
