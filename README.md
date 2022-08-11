@@ -20,8 +20,8 @@ So much information about me, hopefully useful :).
 [![MozesJr's GitHub stats](https://github-readme-stats.vercel.app/api?username=MozesJr&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=MozesJr&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MozesJr&layout=compact" height=180 />
 </p>
 <!--
 **MozesJr/MozesJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
