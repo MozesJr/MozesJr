@@ -12,6 +12,12 @@ DBMS : MySQL + MonggoDB
 
 So much information about me, hopefully useful :).
 
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MozesJr&hide=java,html,css&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![FFPaiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ffpaiki&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **MozesJr/MozesJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
